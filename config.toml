@@ -10,7 +10,7 @@ copyright = "© Chain Luber, LLC"
 description = "A next generation motorcycle chain lubrication applicator"
 favicon = "/pexels-photo-2662134.jpeg"
 hidedesignbyline = false
-images = ["images/share-image.png"]
+images = ["/125.jpg"]
 title = "Chain Luber, LLC"
 [params.meta]
 keywords = "chain luber motorcycle chain luber wax spray no mess fast"
