@@ -1,16 +1,16 @@
 ---
-header_brand: A New Motorcycle Chain Luber
-header_tagline_paragraph: 'We''re hard at work developing a brand new fluid application
-  technology that will completely change the way your lubricate your motorcycle, quad
-  or dirtbike chains. Chain Luber is cleaner, faster and more efficient than anything
-  else on the market. '
+header_brand: The No Mess Chain Luber
+header_tagline_paragraph: We're hard at work developing a brand new chain wax/spray
+  lube applicator that will completely change the way your maintain your chain. Chain
+  Luber (TM) is cleaner, faster and more efficient than anything else on the market.
+  Guaranteed!
 header_button_cta:
   url: "#contact-form"
-  title: Pre Order Here
+  title: Order Now
 header_button_more:
-  url: "#the-future---today"
-  title: Why this is awesome?
-teaser_image: "/122.jpg"
+  url: "#/pexels-photo-2662134.jpeg"
+  title: Why?
+teaser_image: "/125.jpg"
 
 ---
 # Wanna try it out?
