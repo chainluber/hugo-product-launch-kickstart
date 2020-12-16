@@ -1,9 +1,9 @@
 ---
 header_brand: The No Mess Chain Luber
-header_tagline_paragraph: We're hard at work developing a brand new chain wax/spray
-  lube applicator that will completely change the way your maintain your chain. Chain
-  Luber (TM) is cleaner, faster and more efficient than anything else on the market.
-  Guaranteed!
+header_tagline_paragraph: We're hard at work developing a brand-new chain lube applicator.
+  Simply attach to your favorite can of spray lube/wax and watch as it delivers the
+  perfect amount of lube directly on the o-rings. Chain Luber (TM) is cleaner, faster
+  and more efficient than anything else on the market. Guaranteed!
 header_button_cta:
   url: "#contact-form"
   title: Order Now
