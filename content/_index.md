@@ -8,8 +8,8 @@ header_button_cta:
   url: "#contact-form"
   title: Order Now
 header_button_more:
-  url: ''
-  title: Sample
+  url: "#newsletter-sign-up-form"
+  title: Join Mailing List
 teaser_image: "/125.jpg"
 
 ---
