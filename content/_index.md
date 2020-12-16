@@ -16,7 +16,7 @@ teaser_image: "/125.jpg"
 ---
 # Get one here
 
-Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a small group of friends. If you want to try out the Chain Luber today, drop us a line at our [contact form](#contact-form "Pre Order") below. 
+Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a small group of friends. We want you to try it next. If you want to try out the Chain Luber for yourself, drop us a line at our [contact form](#contact-form "Pre Order") below.
 
 ***
 
@@ -28,7 +28,7 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 # Prototype
 
-You guessed it! Hot off the presses, Version #1. 
+You guessed it! Hot off the presses, Version #1.
 
 ![](/122.jpg "version #1")
 
