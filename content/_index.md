@@ -15,11 +15,11 @@ teaser_image: "/125.jpg"
 ---
 # Wanna try it out?
 
-We've opened the R&D phase #2 to a small group of passionate motorcyclists like yourself. Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a closed group of family & friends. We are expanding round two to a larger public audience. If you want to be included in this group and get a free Chain Luber, drop us a line at our [contact form](#contact-form "Pre Order") below.
+Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a closed group of family & friends. If you want to try out the Chain Luber today, drop us a line at our [contact form](#contact-form "Pre Order") below.
 
 ***
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to send you an early-release of the prototype we built.
+Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your're interested, we'd love to send you an early-release of the prototype we built.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
