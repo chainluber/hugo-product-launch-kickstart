@@ -15,7 +15,7 @@ teaser_image: "/125.jpg"
 ---
 # Get one here
 
-Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a closed group of family & friends. If you want to try out the Chain Luber today, drop us a line at our [contact form](#contact-form "Pre Order") below.
+Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a small group of friends. If you want to try out the Chain Luber today, drop us a line at our [contact form](#contact-form "Pre Order") below. 
 
 ***
 
