@@ -8,8 +8,8 @@ header_button_cta:
   url: "#contact-form"
   title: Order Now
 header_button_more:
-  url: "#/pexels-photo-2662134.jpeg"
-  title: Why?
+  url: ''
+  title: Sample
 teaser_image: "/125.jpg"
 
 ---
