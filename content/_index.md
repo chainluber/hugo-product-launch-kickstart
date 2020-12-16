@@ -13,9 +13,9 @@ header_button_more:
 teaser_image: "/122.jpg"
 
 ---
-# The Future - Today!
+# Wanna try it out?
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form "Pre Order") so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+We've opened the R&D phase #2 to a small group of passionate motorcyclists like yourself. Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a closed group of family & friends. We are expanding round two to a larger public audience. If you want to be included in this group and get a free Chain Luber, drop us a line at our [contact form](#contact-form "Pre Order") below.
 
 ***
 
