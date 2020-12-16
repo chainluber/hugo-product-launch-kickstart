@@ -6,9 +6,9 @@ title = "Chain Luber"
 [markup.goldmark.renderer]
 hardWraps = true
 [params]
-copyright = "© Builders Of The Future, Inc."
-description = "You don't even know what we can do for you!"
-favicon = "images/favicon.png"
+copyright = "© Chain Luber, LLC."
+description = "A next generation motorcycle chain lubrication applicator"
+favicon = "/pexels-photo-2662134.jpeg"
 hidedesignbyline = false
 images = ["images/share-image.png"]
 title = "Builders Of The Future, Inc."
