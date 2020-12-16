@@ -13,7 +13,7 @@ header_button_more:
 teaser_image: "/125.jpg"
 
 ---
-# Try it today
+# Try it yourself
 
 Our first-gen [prototype](#prototype) worked right out-of-the-box and was distributed immediately to a closed group of family & friends. If you want to try out the Chain Luber today, drop us a line at our [contact form](#contact-form "Pre Order") below.
 
