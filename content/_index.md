@@ -27,11 +27,9 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 # Prototype
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+You guessed it! Hot off the presses, Version #1. 
 
-![](/122.jpg "Version #1")
-
-R&D First Generation Chain Luber (08/2020)
+![](/122.jpg "version #1")
 
 ***
 
