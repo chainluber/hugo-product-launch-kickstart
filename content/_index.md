@@ -1,10 +1,10 @@
 ---
-header_brand: The No Mess Chain Luber
-header_tagline_paragraph: 'We''re hard at work developing a brand-new chain lube applicator.
-  Simply attach to your favorite can of spray lube/wax and watch as it delivers the
-  perfect amount of lube directly where it''s needed: the o-rings & rollers. Chain
-  Luber (TM) is cleaner, faster and more efficient than anything else on the market.
-  Guaranteed!'
+header_brand: The No-Mess Chain Lube Tool
+header_tagline_paragraph: We're hard at work developing a brand-new chain maintenance
+  tool. Simply attach Chain Luber (TM) to your favorite can of spray lube/wax and
+  watch as it delivers the perfect amount of product directly onto the o-rings and
+  rollers. Chain Luber is cleaner, faster and saves more product than anything else
+  on the market. Guaranteed!
 header_button_cta:
   url: "#contact-form"
   title: Order Now
