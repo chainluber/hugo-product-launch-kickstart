@@ -8,7 +8,7 @@ header_button_cta:
   url: "#contact-form"
   title: Order Now
 header_button_more:
-  url: "#/images/prototype.jpg"
+  url: ''
   title: Sample
 teaser_image: "/125.jpg"
 
