@@ -1,15 +1,18 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: A New Motorcycle Chain Luber
+header_tagline_paragraph: 'We''re hard at work developing a brand new fluid application
+  technology that will completely change the way your lubricate your motorcycle, quad
+  or dirtbike chains. Chain Luber is cleaner, faster and more efficient than anything
+  else on the market. '
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: Pre Order Here
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
----
+  title: Why this is awesome?
+teaser_image: "/122.jpg"
 
+---
 # The Future - Today!
 
 Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
