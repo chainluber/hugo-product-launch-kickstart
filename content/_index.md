@@ -20,7 +20,7 @@ Our first-gen [prototype](#prototype) worked right out-of-the-box and was distri
 
 ***
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. In fact, if you're interested, we'd love to send one out to you today!
+Have we caught your attention? We appreciate your feedback at this early stage of our product development. Let us know what you think here:
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
