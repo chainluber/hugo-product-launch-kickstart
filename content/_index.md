@@ -29,9 +29,7 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 You guessed it! We put our money where our mouth is. This is what we accomplished so far.
 
-![Prototype Work](images/prototype.jpg "our first design") <!-- https://www.pexels.com/search/product%20testing/ -->
-
-Check out this sweet preview. Impressed much, are you?
+![](/125.jpg)Check out this sweet preview. Impressed much, are you?
 
 ***
 
@@ -39,7 +37,7 @@ Check out this sweet preview. Impressed much, are you?
 
 Let's keep it simple. This is our contact information:
 
-Chain Luber, LLC 
+Chain Luber, LLC
 
 1001 S Main Street Suite #5727 Kalispell, MT 59901
 
