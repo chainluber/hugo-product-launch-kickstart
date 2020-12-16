@@ -31,7 +31,7 @@ You guessed it! We put our money where our mouth is. This is what we accomplishe
 
 ![](/122.jpg)
 
-R&D First Generation Chain Luber (10/2020)
+R&D First Generation Chain Luber (08/2020)
 
 ***
 
