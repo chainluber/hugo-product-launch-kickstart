@@ -29,7 +29,9 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 You guessed it! We put our money where our mouth is. This is what we accomplished so far.
 
-![](/125.jpg)Check out this sweet preview. Impressed much, are you?
+![](/122.jpg)
+
+R&D First Generation Chain Luber (10/2020)
 
 ***
 
