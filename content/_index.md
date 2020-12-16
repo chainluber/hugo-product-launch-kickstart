@@ -35,15 +35,15 @@ Check out this sweet preview. Impressed much, are you?
 
 ***
 
-# Imprint & Privacy Policy
+# Our Privacy Policy
 
 Let's keep it simple. This is our contact information:
 
-Chain Luber LLC 
+Chain Luber, LLC 
 
 1001 S Main Street Suite #5727 Kalispell, MT 59901
 
-E-mail: chainluber@protonmail.com
+E-mail: chainluber@pm.me
 
 We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
 
